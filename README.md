@@ -75,7 +75,11 @@ my_program data.txt
 ```
 
 ## วิธีรันไฟล์
+
 python treehouse.py ชื่อไฟล์ข้อมูล
+
 เช่น
+
 python treehouse.py datatest.txt
+
 python treehouse.py dataexample.txt
